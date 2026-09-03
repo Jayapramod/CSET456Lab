@@ -1,0 +1,90 @@
+{
+    "repository": {
+        "name": "Flask",
+        "source": "https://github.com/pallets/flask"
+    },
+    "file_statistics": {
+        "total_source_files": 84,
+        "total_loc": 18352,
+        "average_loc_per_source_file": 218.48,
+        "languages": {
+            "Python": 83,
+            "Shell": 1
+        },
+        "file_type_distribution": {
+            ".py": 83,
+            ".sh": 1
+        },
+        "largest_source_files": [
+            {
+                "file_path": "tests/test_basic.py",
+                "loc": 1974,
+                "size_bytes": 54273
+            },
+            {
+                "file_path": "src/flask/app.py",
+                "loc": 1628,
+                "size_bytes": 65472
+            },
+            {
+                "file_path": "src/flask/cli.py",
+                "loc": 1127,
+                "size_bytes": 36836
+            },
+            {
+                "file_path": "tests/test_blueprints.py",
+                "loc": 1115,
+                "size_bytes": 31287
+            },
+            {
+                "file_path": "src/flask/sansio/app.py",
+                "loc": 1013,
+                "size_bytes": 39495
+            },
+            {
+                "file_path": "src/flask/sansio/scaffold.py",
+                "loc": 800,
+                "size_bytes": 30633
+            },
+            {
+                "file_path": "tests/test_cli.py",
+                "loc": 703,
+                "size_bytes": 20303
+            },
+            {
+                "file_path": "src/flask/sansio/blueprints.py",
+                "loc": 692,
+                "size_bytes": 27017
+            },
+            {
+                "file_path": "src/flask/helpers.py",
+                "loc": 682,
+                "size_bytes": 24628
+            },
+            {
+                "file_path": "src/flask/ctx.py",
+                "loc": 540,
+                "size_bytes": 18261
+            }
+        ]
+    },
+    "git_history": {
+        "total_commits": 5556,
+        "total_contributors": 858,
+        "most_active_contributors": {
+            "David Lord": 1855,
+            "Armin Ronacher": 1191,
+            "Markus Unterwaditzer": 274,
+            "Ron DuPlain": 122,
+            "Kenneth Reitz": 116,
+            "Grey Li": 105,
+            "dependabot-preview[bot]": 91,
+            "Daniel Neuha\u0308user": 70,
+            "dependabot[bot]": 61,
+            "pgjones": 49
+        },
+        "total_insertions": 255316,
+        "total_deletions": 181060,
+        "frequently_changed_files": []
+    }
+}
