@@ -7,7 +7,7 @@ from git import Repo
 # CHANGE THIS NAME TO MINE A DIFFERENT REPOSITORY
 # ============================================================
 
-REPO_NAME = "flask"
+REPO_NAME = "scikit-learn"
 
 
 # ============================================================
