@@ -14,8 +14,8 @@ REPO_NAME = "flask"
 # DIRECTORY CONFIGURATION
 # ============================================================
 
-REPO_PATH = os.path.join("data", "repos", REPO_NAME)
-OUTPUT_DIR = "data/output"
+REPO_PATH = os.path.join("data", REPO_NAME)
+OUTPUT_DIR = "output"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
