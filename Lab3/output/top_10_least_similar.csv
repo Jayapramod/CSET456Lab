@@ -1,0 +1,11 @@
+rank,token_1,token_2,cosine_similarity
+1,frames,ed_by,-0.45917171239852905
+2,uuid,lfw_,-0.4564720094203949
+3,_mess,VotingClassifier,-0.45637091994285583
+4,Recording,metric_params,-0.447275310754776
+5,Template,item_id__get,-0.4462848901748657
+6,_dense_sparse,stract,-0.4437407851219177
+7,det_,make_scorer,-0.4387827515602112
+8,transpose,opt,-0.4367126524448395
+9,code_,or_,-0.4321293830871582
+10,ClassifierCV,py310,-0.43127596378326416
