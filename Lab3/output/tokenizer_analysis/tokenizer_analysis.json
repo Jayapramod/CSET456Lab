@@ -1,0 +1,35 @@
+[
+    {
+        "tokenizer": "Character",
+        "vocab_size": 298,
+        "embedding_dimension": 128,
+        "embedding_parameters": 38144,
+        "embedding_size_MB_float32": 0.15,
+        "average_sequence_length": 10677.66,
+        "minimum_sequence_length": 30,
+        "maximum_sequence_length": 394863,
+        "total_tokens": 24996406
+    },
+    {
+        "tokenizer": "Word",
+        "vocab_size": 30000,
+        "embedding_dimension": 128,
+        "embedding_parameters": 3840000,
+        "embedding_size_MB_float32": 14.65,
+        "average_sequence_length": 1915.1,
+        "minimum_sequence_length": 5,
+        "maximum_sequence_length": 37071,
+        "total_tokens": 4483255
+    },
+    {
+        "tokenizer": "Subword-BPE",
+        "vocab_size": 10000,
+        "embedding_dimension": 128,
+        "embedding_parameters": 1280000,
+        "embedding_size_MB_float32": 4.88,
+        "average_sequence_length": 2170.15,
+        "minimum_sequence_length": 6,
+        "maximum_sequence_length": 41342,
+        "total_tokens": 5080327
+    }
+]

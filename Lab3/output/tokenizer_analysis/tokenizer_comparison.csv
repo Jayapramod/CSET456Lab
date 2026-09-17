@@ -1,0 +1,4 @@
+tokenizer,vocab_size,embedding_dimension,embedding_parameters,embedding_size_MB_float32,average_sequence_length,minimum_sequence_length,maximum_sequence_length,total_tokens
+Character,298,128,38144,0.15,10677.66,30,394863,24996406
+Word,30000,128,3840000,14.65,1915.1,5,37071,4483255
+Subword-BPE,10000,128,1280000,4.88,2170.15,6,41342,5080327
