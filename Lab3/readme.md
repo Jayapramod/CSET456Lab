@@ -35,3 +35,7 @@ Pair    Token 1    Token 2
 
 ![alt text](image.png)
 ![alt text](image-1.png)
+
+
+5. using the outline of the naive algo i made a promt and generated a code using that code to get a improves similarity.
+![alt text](image-2.png)
