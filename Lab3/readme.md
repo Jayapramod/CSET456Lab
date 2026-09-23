@@ -30,3 +30,8 @@ Pair    Token 1    Token 2
 3       (          (""
 4       =          ()
 5       """        """)
+
+4. Check the similarity between these pairs of tokens.
+
+![alt text](image.png)
+![alt text](image-1.png)

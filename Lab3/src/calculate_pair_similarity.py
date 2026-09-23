@@ -6,9 +6,9 @@ from tokenizers import Tokenizer
 # FILE PATHS
 # ============================================================
 
-TOKENIZER_PATH = "output/subword_embedding_analysis/subword_tokenizer.json"
+TOKENIZER_PATH = "output/tokenizer_analysis/subword_tokenizer.json"
 
-EMBEDDING_PATH = "output/subword_embedding_analysis/random_embedding_matrix.npy"
+EMBEDDING_PATH = "output/random_embedding_matrix.npy"
 
 
 # ============================================================
@@ -124,7 +124,7 @@ import pandas as pd
 results_df = pd.DataFrame(results)
 
 output_path = (
-    "output/subword_embedding_analysis/"
+    "output/tokenizer_analysis/"
     "specified_token_similarities.csv"
 )
 
