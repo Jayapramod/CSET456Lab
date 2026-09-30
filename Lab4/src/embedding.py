@@ -8,7 +8,7 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = BASE_DIR / "data" / "20_tokens.csv"
+INPUT_FILE = BASE_DIR / "data" / "random_20_tokens.csv"
 OUTPUT_DIR = BASE_DIR / "output"
 
 OUTPUT_DIR.mkdir(exist_ok=True)
