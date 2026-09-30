@@ -1,0 +1,16 @@
+import pandas as pd
+
+# Load your dataset
+df = pd.read_csv("data/your_dataset.csv")
+
+# Randomly select 20 tokens
+random_20 = df[["rank", "token", "frequency"]].sample(
+    n=20,
+    random_state=42
+)
+
+# Display the selected tokens
+print(random_20.to_string(index=False))
+
+# Save them for the next step
+random_20.to_csv("output/random_20_tokens.csv", index=False)
