@@ -31,3 +31,8 @@ i did the difference for the first one so we can move to the next part as the ab
 1. _ and ] have a relatively high similarity of 0.6649 even though they have different roles in code.
 2. ): and _ have a similarity of 0.6139 despite serving very different purposes.
 These examples show that the embedding does not always capture the functional or semantic relationship between tokens.
+
+
+Code2Vec: Converts source code files into 128-dimensional vectors to represent code structure and relationships, helping with code similarity and analysis.
+Word2Vec: Converts individual words/tokens into 100-dimensional vectors based on their surrounding context, capturing semantic relationships.
+
